@@ -6,7 +6,7 @@ I mostly work with Python,HTML,CSS,JS,BootStrap,PHP,Wordpress and Bash. 🚀
 
 <p float="left">
   <a href="https://portal.azure.com" target="_blank" >
-    <img src="https://dribbble.com/shots/10765125-Microsoft-Azure-Logo"  height="90" />
+    <img src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif"  height="90" />
   </a>
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
