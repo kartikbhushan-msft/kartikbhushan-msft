@@ -2,11 +2,11 @@
 
 I am Kartik Bhushan a Cyber Security enthusiast and a Full stack Web dev from 🇮🇳. I am currently working as an Infosec Consultant at Microsoft. I am passionate about Code in general.
 
-I mostly work with Python,HTML,CSS,JS,BootStrap,PHP,Wordpress and Bash. 🚀
+I mostly work with Azure cloud,Python,HTML,CSS,JS,BootStrap,PHP,Wordpress and Bash. 🚀
 
 <p float="left">
   <a href="https://portal.azure.com" target="_blank" >
-    <img src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif"  height="90" />
+    <img src="https://2wtech.com/wp-content/uploads/2022/04/Mangaard-azure.png"  height="90" />
   </a>
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
